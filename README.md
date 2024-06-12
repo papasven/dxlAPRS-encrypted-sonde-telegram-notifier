@@ -80,3 +80,5 @@ To start the script, automatically place the command to start the script in the 
 ```
 killall -9 getalmd rtl_tcp sdrtst sondeudp sondemod udpbox udpgate4 encrypted-tg-notifier
 ```
+### 11. Small Extension Added
+Added option to send data to wettersonde.net
